@@ -17,6 +17,8 @@ Equals Matchers -- untuk membandingkan agar datanya harus sama
 Truthtiness Matchers -- membedakan antara undefined, null, dan false
 Numbers Matchers -- digunakan untuk value berupa number
 String Matchers -- digunakan untuk value berupa string
-Array Matchers
+Array Matchers -- 
 Exception Matchers
 Not Matchers
+Async test
+Async-matcher 
